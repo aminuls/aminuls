@@ -7,7 +7,7 @@
 
 ![MERN Stack developer](https://pbs.twimg.com/profile_banners/1318238641034907648/1670140579/1500x500)
 
-<h4>I enjoy working in IT, especially with Frontend, and I am always interested in learning new skills. I have been working with Frontend for one year. I am an expert in HTML, CSS, JavaScript, and React Js, and also comfortable with Express, and MongoDB. I know some frameworks and libraries like Bootstrap, React Bootstrap, Tailwind CSS, Tailwind Elements, DaisyUI, and more. I love to learn new things by myself and help others.</h4>
+I enjoy working in IT, especially with Frontend, and I am always interested in learning new skills. I have been working with Frontend for one year. I am an expert in HTML, CSS, JavaScript, and React Js, and also comfortable with Express, and MongoDB. I know some frameworks and libraries like Bootstrap, React Bootstrap, Tailwind CSS, Tailwind Elements, DaisyUI, and more. I love to learn new things by myself and help others.
 
 -  🔭 I’m currently working on **Front-end Development**
 
