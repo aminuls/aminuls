@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Aminul Islam
+## Hi 👋, I'm Aminul Islam
 ### MERN Stack developer
 ![MERN Stack developer](https://pbs.twimg.com/profile_banners/1318238641034907648/1670140579/1500x500)
 
