@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aminul Islam</h1>
-<h2 align="center">A passionate MERN Stack developer</h2>
+<h3 align="center">A passionate MERN Stack developer</h3>
 
 ![Profile views](https://gpvc.arturio.dev/aminuls)
 
