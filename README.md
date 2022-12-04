@@ -18,8 +18,6 @@ Skills: React JS / Express JS / MongoDB / Firebase / Node / Git / GitHub / JS / 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aminuls&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aminuls)  
-
 ![GitHub metrics](https://metrics.lecoq.io/aminuls)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=aminuls)  
