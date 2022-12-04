@@ -41,8 +41,8 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=aminuls)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminuls&show_icons=true&locale=en&layout=compact" alt="aminuls" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminuls&show_icons=true&locale=en&layout=compact" alt="aminuls" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminuls&show_icons=true&locale=en" alt="aminuls" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=aminuls&show_icons=true&locale=en" alt="aminuls" /></p>
 
 ![GitHub metrics](https://metrics.lecoq.io/aminuls)
