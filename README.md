@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aiaminuls" target="blank"><img src="https://img.shields.io/twitter/follow/aiaminuls?logo=twitter&style=for-the-badge" alt="aiaminuls" /></a> </p>
 
-![MERN Stack developer]([https://media.licdn.com/dms/image/D5616AQHbUWZYXtLedw/profile-displaybackgroundimage-shrink_350_1400/0/1670520467007?e=1675900800&v=beta&t=TnKuav8OOT1sgeALf9A9veiE7H1kLlWNTkElh7pG_5c](https://media.licdn.com/dms/image/D5616AQGLGNIrRKpQbw/profile-displaybackgroundimage-shrink_350_1400/0/1670678300105?e=1675900800&v=beta&t=KFud7bFLdVdyYee_EPPhibicIMLHi6abzdee3Qyng2Y)
+![MERN Stack developer]([https://media.licdn.com/dms/image/D5616AQHbUWZYXtLedw/profile-displaybackgroundimage-shrink_350_1400/0/1670520467007?e=1675900800&v=beta&t=TnKuav8OOT1sgeALf9A9veiE7H1kLlWNTkElh7pG_5c](https://media.licdn.com/dms/image/D5616AQGLGNIrRKpQbw/profile-displaybackgroundimage-shrink_350_1400/0/1670678300105?e=1675900800&v=beta&t=KFud7bFLdVdyYee_EPPhibicIMLHi6abzdee3Qyng2Y])
 
 I enjoy working in IT, especially with Frontend, and I am always interested in learning new skills. I have been working with Frontend for one year. I am an expert in HTML, CSS, JavaScript, and React Js, and also comfortable with Express, and MongoDB. I know some frameworks and libraries like Bootstrap, React Bootstrap, Tailwind CSS, Tailwind Elements, DaisyUI, and more. I love to learn new things by myself and help others.
 
